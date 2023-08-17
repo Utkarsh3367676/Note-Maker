@@ -6,7 +6,7 @@ import CreateArea from "./CreateArea";
 
 function App() {
   const [notes, setNotes] = useState([]);
-~
+
   function addNote(newNote) {
     setNotes(prevNotes => {
       return [...prevNotes, newNote];
