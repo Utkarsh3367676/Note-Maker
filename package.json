@@ -2,6 +2,7 @@
   "name": "keeper-app-part-1-starting",
   "version": "1.0.0",
   "description": "",
+  "homepage": "http://Utkarsh3367676.github.io/Note-Maker", 
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
